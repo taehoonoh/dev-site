@@ -3,9 +3,13 @@
 
 + 공부를 하며 학습 자료를 직접 정리하였습니다.
 
+---
+
 ## 문서의 저작권
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/kr/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/2.0/kr/88x31.png" /></a><br />이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/kr/">크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 2.0 대한민국 라이선스</a>에 따라 이용할 수 있습니다.
+
+---
 
 ## 온라인강의 
 
@@ -25,6 +29,8 @@
 
 + [수카데미(무료/유료)](https://www.sucademy.com/)
 
+---
+
 ## 기술 문서 및 개발자 블로그
 
 + [MDN](https://developer.mozilla.org/ko/)
@@ -36,6 +42,8 @@
 + [벨로퍼트와 함께하는 모던 자바스크립트](https://learnjs.vlpt.us/)
 
 + [누구나쉽게이해할수있는 git입문](https://backlog.com/git-tutorial/kr/)
+
+---
 
 ## 웹표준과 웹접근성
 
@@ -53,6 +61,8 @@
 
 + [다음 웹 표준과 접근성 다룸](http://darum.daum.net/)
 
+---
+
 ## 유용한 사이트
 
 + [언플래쉬(무료이미지)](https://unsplash.com/)
@@ -69,11 +79,13 @@
 
 + [CC라이선스](http://ccl.cckorea.org/)
 
+
 ### 템플릿
 
 + [TEMPLATED](https://templated.co/)
 
 + [HTML5 UP](https://html5up.net/)
+
 
 ### 웹디자인
 
@@ -81,7 +93,9 @@
 
 + [지디웹](http://www.gdweb.co.kr/)
 
-### 크롬 확장프로그램
+---
+
+## 크롬 확장프로그램
 
 [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=ko)
 
