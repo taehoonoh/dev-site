@@ -25,11 +25,6 @@
 
 + [수카데미(무료/유료)](https://www.sucademy.com/)
 
-
-
-### 유튜브(추가예정)
-
-
 ## 기술 문서 및 개발자 블로그
 
 + [MDN](https://developer.mozilla.org/ko/)
@@ -42,6 +37,21 @@
 
 + [누구나쉽게이해할수있는 git입문](https://backlog.com/git-tutorial/kr/)
 
+## 웹표준과 웹접근성
+
++ [브라우저해피(브라우저다운)](https://browsehappy.com/)
+
++ [캔아이유즈(브라우저 별 소스확인)](https://caniuse.com/#)
+
++ [브라우저 html 호환성 검사](http://html5test.com/)
+
++ [W3C 표준 검사](http://validator.kldp.org/)
+
++ [W3C css검사](http://jigsaw.w3.org/css-validator/)
+
++ [네이버 웹 표준화 및 접근성 널리](https://nuli.navercorp.com/)
+
++ [다음 웹 표준과 접근성 다룸](http://darum.daum.net/)
 
 ## 유용한 사이트
 
@@ -57,19 +67,7 @@
  
 + [구글 애널리틱스(방문데이터수집)](https://marketingplatform.google.com/about/)
 
-+ [브라우저해피(브라우저다운)](https://browsehappy.com/)
-
-+ [캔아이유즈(브라우저 별 소스확인)](https://caniuse.com/#)
-
 + [CC라이선스](http://ccl.cckorea.org/)
-
-+ [브라우저 html 호환성 검사](http://html5test.com/)
-
-+ [W3C 표준 검사](http://validator.kldp.org/)
-
-+ [W3C css검사](http://jigsaw.w3.org/css-validator/)
-
-+ [네이버 웹 표준화 및 접근성 널리](https://nuli.navercorp.com/) 
 
 ### 템플릿
 
@@ -85,13 +83,14 @@
 
 ### 크롬 확장프로그램
 
-[Image Downloader]()
+[Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=ko)
 
-[Full Page Screen Capture]()
+[Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=ko)
 
 [HTML5 Outliner](https://chrome.google.com/webstore/detail/afoibpobokebhgfnknfndkgemglggomo)
 
-[css제거 ](https://chrome.google.com/webstore/search/web%20developer)
+[Web Developer](https://chrome.google.com/webstore/search/web%20developer)
+
 
 
 
