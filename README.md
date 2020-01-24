@@ -43,7 +43,13 @@
 
 + [벨로퍼트와 함께하는 모던 자바스크립트](https://learnjs.vlpt.us/)
 
++ [진유림님 발표 자료](https://www.slideshare.net/jayjin0427?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
+
 + [누구나쉽게이해할수있는 git입문](https://backlog.com/git-tutorial/kr/)
+
++ [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
+
++ [vobour](https://www.vobour.com/)
 
 
 
@@ -83,7 +89,6 @@
 
 + [CC라이선스](http://ccl.cckorea.org/)
 
-
 ### 템플릿
 
 + [TEMPLATED](https://templated.co/)
@@ -96,6 +101,12 @@
 + [디비컷](https://www.dbcut.com/bbs/bbs.php?table=directory)
 
 + [지디웹](http://www.gdweb.co.kr/)
+
+### IT
+
++ [온오프믹스](https://onoffmix.com/)
+
++ [festa](https://festa.io/)
 
 ---
 
