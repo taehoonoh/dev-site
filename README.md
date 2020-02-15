@@ -41,18 +41,19 @@
 
 + [HEROPY Tech](https://heropy.blog/)
 
++ [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
+
 + [벨로퍼트와 함께하는 모던 자바스크립트](https://learnjs.vlpt.us/)
 
 + [진유림님 발표 자료](https://www.slideshare.net/jayjin0427?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 
 + [누구나쉽게이해할수있는 git입문](https://backlog.com/git-tutorial/kr/)
 
-+ [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
++ [Rankedin(깃허브 랭킹)](http://rankedin.kr/)
 
-+ [vobour](https://www.vobour.com/)
++ [데브뉴스(개발 관련 커뮤니티)](http://devnews.kr)
 
-
-
++ [[Markdown] 마크다운 문법 | JENNY|개발자](https://simhyejin.github.io/2016/06/30/Markdown-syntax/)
 ---
 
 ## 웹표준과 웹접근성
@@ -98,9 +99,15 @@
 
 ### 웹디자인
 
++ [노트폴리오](https://notefolio.net/)
+
 + [디비컷](https://www.dbcut.com/bbs/bbs.php?table=directory)
 
 + [지디웹](http://www.gdweb.co.kr/)
+
++ [vobour(UI/UX관련)](https://www.vobour.com/)
+
+
 
 ### IT
 
