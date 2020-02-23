@@ -11,25 +11,6 @@
 
 ---
 
-## 온라인강의 
-
-+ [생활코딩(무료)](https://opentutorials.org/course/1)
-
-+ [구름EDU(무료/유료)](https://edu.goorm.io/)
-
-+ [패스트캠퍼스(유료)](https://fastcampus.co.kr/)
-
-+ [인프런(무료/유료)](https://www.inflearn.com/)
-
-+ [Udemy(유료)](https://www.udemy.com/)
-
-+ [Codecademy(무료/유료)](https://www.codecademy.com/)
-
-+ [부스트코스(무료/유료)](https://www.edwith.org/boost-course/intro)
-
-+ [수카데미(무료/유료)](https://www.sucademy.com/)
-
----
 
 ## 기술 문서 및 개발자 블로그
 
